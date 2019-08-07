@@ -1,2 +1,3 @@
 # Air-Pollution-Prediction
-using Linear Regression
+using Linear Regression from scratch 
+as well as from sklearn
